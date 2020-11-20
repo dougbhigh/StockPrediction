@@ -1,0 +1,15 @@
+Conclusions: 
+* The best Performing prediction Model based on Date and Closing Price was LSTM.  It had much lower RMSE scores.
+* Next steps: would create a dashboard with drop down menu of charts and LSTM prediction model 
+
+* As accurate as machine intelligence stock predictors may be, they will not alleviate the very human 
+emotions of wanting to buy and sell inherent in owning stocks:
+- Timeframe - buying and holding vs day or swing trading 
+- too much of overall portfolio allocated to one stock or sector
+- fluctuations in price and volatility
+- Large percent moves up or down in short time frames
+- With bigger moves up comes bigger moves down
+- Random nature of stock market
+- “Staying in” if/when model is dramatically incorrect 
+	- Dramatic decline in index price values in February due to pandemic 
+	- BYND price decline approx 11/10 when rumor MCD may become competitor not partner
